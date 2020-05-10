@@ -1,7 +1,7 @@
 {
   "name": "rs-model",
-  "version": "1.0.0",
-  "description": "its is a test react package",
+  "version": "1.0.2",
+  "description": "This is a model popup which has no reference of jquery and bootstrap.",
   "main": "./build/index.js",
   "scripts": {
     "build": "webpack"
@@ -26,7 +26,6 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
- 
     "prop-types": "^15.7.2",
     "react": "^16.12.0"
   },
