@@ -18,7 +18,7 @@ Usage
             <div className="container">
               <h4><b>John Doe</b></h4>
               <p>Architect & Engineer</p>
-              <input type="button" class="button" value="OK" onClick={() => {
+              <input type="button" className="button" value="OK" onClick={() => {
                 this.setState({
                   show: false
                 })

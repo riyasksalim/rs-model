@@ -23,11 +23,11 @@
     width:500px;
     background:#fff;
     border-radius:4px; */
-    transform:translate(-50%, -200%) !important;
-    transition:all .2s ease-in-out !important;
-    perspective: 1000 !important;
-    outline:1px solid transparent !important;
-    opacity:0 !important;
+    transform:translate(-50%, -200%) ;
+    transition:all .2s ease-in-out;
+    perspective: 1000;
+    outline:1px solid transparent;
+    opacity:0 ;
   }
   .modelClickedContent {
     transform: translate(-50%, -50%);

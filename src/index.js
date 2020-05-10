@@ -30,7 +30,7 @@ class RSModel extends React.Component {
     }}>{t}</span>)
     return (
       <Fragment>
-        <div class="rsmodal" id="modal">
+        <div className="rsmodal" id="modal">
           <div className={"modal-content"} style={this.props.contentStyle} id="modelContent">
             {this.props.children ? this.props.children : nochildren}
           </div>

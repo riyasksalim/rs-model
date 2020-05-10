@@ -1,6 +1,6 @@
 {
   "name": "rs-model",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "This is a model popup which has no reference of jquery and bootstrap.",
   "main": "./build/index.js",
   "scripts": {
